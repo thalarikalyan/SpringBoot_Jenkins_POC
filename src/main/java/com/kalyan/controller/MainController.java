@@ -9,7 +9,7 @@ public class MainController {
 
 	@PostConstruct
 	public void m() {
-		System.out.println("MainController.m()");
+		System.out.println("MainController.m()")
 
 	}
 

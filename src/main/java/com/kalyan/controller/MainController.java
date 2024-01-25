@@ -12,7 +12,7 @@ public class MainController {
 
 	@PostConstruct
 	public void m() {
-		logger.info("Hello Kalyan!! PipeLine is added");
+		logger.info("Hello Kalyan!! PipeLine is added")
 
 	}
 
